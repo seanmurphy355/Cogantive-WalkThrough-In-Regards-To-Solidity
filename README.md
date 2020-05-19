@@ -1,1 +1,1 @@
-# Evaluation-of-Solidities-Usablility
+# Cogantive-WalkThrough-In-Regards-To-Solidity
